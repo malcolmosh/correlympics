@@ -1,4 +1,5 @@
 # The cOrrelympics
+A project by Olivier Simard-Hanley & Jessica Black
 
 This is a fun project assembled for the Deloitte 2024 Tableau visualization competition, which focused on the olympics. The task was to build an interesting visual story around data collected from all editions of the Olympic games.
 

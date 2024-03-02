@@ -1,0 +1,7 @@
+pandas
+numpy 
+googlemaps
+geopy
+Unidecode
+kaleido
+plotly

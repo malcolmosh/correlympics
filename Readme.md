@@ -7,7 +7,7 @@ Inspired by Tyler Vigen's [Spurious Correlations website](https://www.tylervigen
 
 All the data processing code is in [`analysis_gh_version.ipynb`](https://github.com/malcolmosh/correlympics/blob/main/analysis_gh_version.ipynb). Here are a few examples!
 
-![Austrian fourth places vs olympian birthdays](graph_examples/austria_example.png)
-![PRC medals vs oldest kayak athlete](graph_examples/china_kayak.png)
-![Distance from Athens vs athletes called Gina](graph_examples/gina.png)
-![Athletes called Ryan vs fossil fuel consumption per capita](graph_examples/ryan_athletes.png)
+![Athletes called Ryan vs fossil fuel consumption per capita](graph_examples/ryan_carbon.png)
+![PRC medals vs oldest kayak athlete](graph_examples/chinese_kayak.png)
+![Czechia medals vs Athletes named Steven](graph_examples/czechia_steven.png)
+![Kazakhstan medals vs number of letters in host city name](graph_examples/kazakhstan_host_city.png)

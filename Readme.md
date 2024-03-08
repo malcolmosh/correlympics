@@ -11,3 +11,4 @@ All the data processing code is in [`analysis_gh_version.ipynb`](https://github.
 ![PRC medals vs oldest kayak athlete](graph_examples/chinese_kayak.png)
 ![Czechia medals vs Athletes named Steven](graph_examples/czechia_steven.png)
 ![Kazakhstan medals vs number of letters in host city name](graph_examples/kazakhstan_host_city.png)
+![Distance of host city from Athens vs number of athletes named Gina](graph_examples/gina_distance.png)
